@@ -1,0 +1,6 @@
+tornado
+ipykernel
+requests
+pandas
+qgrid
+tqdm
